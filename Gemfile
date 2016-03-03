@@ -34,6 +34,9 @@ gem 'simple_form', '~> 3.2', '>= 3.2.1'
 #adding users
 gem 'devise', '~> 3.5', '>= 3.5.6'
 
+#adding upload
+gem 'paperclip', '~> 4.3', '>= 4.3.5'
+
 # bundle exec rake doc:rails generates the API under doc/api.
 gem 'sdoc', '~> 0.4.0', group: :doc
 
